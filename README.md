@@ -1,2 +1,2 @@
 
-Click here : ashikcv.netlify.app
+Click here : https://ashikcv.netlify.app/
